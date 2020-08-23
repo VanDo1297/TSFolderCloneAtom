@@ -1,0 +1,21 @@
+.user-cards{
+  padding: 20px;
+}
+
+.user-card{
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 9px 32px 0 rgba(0,0,0,.2);
+  .card-info{
+    display: inline-block;
+    &.align-right{
+      float: right;
+    }
+  }
+  &.list-group-item-action{
+    cursor: pointer;
+  }
+  .delete-button{
+    display: block;
+  }
+}

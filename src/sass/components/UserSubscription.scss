@@ -1,0 +1,19 @@
+.user-subscription{
+  width: 300px;
+  margin: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 9px 32px 0 rgba(0,0,0,.2);
+  .content{
+    padding: 20px;
+    .title,.price,.status{
+      font-size: x-large;
+    }
+    .title,.price,.status{
+      padding-bottom: 10px;
+    }
+  }
+}

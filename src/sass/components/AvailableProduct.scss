@@ -1,0 +1,22 @@
+.available-product{
+  width: 300px;
+  margin: 10px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 9px 32px 0 rgba(0,0,0,.2);
+  .content{
+    padding: 30px;
+    .title,.price{
+      font-size: x-large;
+    }
+    .title,.price{
+      padding-bottom: 15px;
+    }
+    .purchase-button{
+
+    }
+  }
+}

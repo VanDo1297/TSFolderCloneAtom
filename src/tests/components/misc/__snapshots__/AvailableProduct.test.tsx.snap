@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders Correctly 1`] = `
+<div
+  className="available-product"
+>
+  <div
+    className="content"
+  >
+    <div
+      className="title"
+    >
+      Test
+    </div>
+    <div
+      className="price"
+    >
+      $
+      123
+    </div>
+    <button
+      className="purchase-button btn btn-primary"
+      disabled={false}
+      onClick={[Function]}
+      type="button"
+    >
+      Purchase
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,38 @@
+.right-align{
+  justify-content: flex-end;
+}
+
+.middle-align{
+  justify-content: center;
+}
+
+.text-underline {
+  text-decoration: underline;
+}
+.pointer{
+  cursor: pointer;
+}
+
+.w-70{
+  width: 70%;
+}
+.text-active{
+  color :#FF4D35 !important
+}
+.text-purple{
+  color : #653F56
+}
+
+@font-face {
+  font-family: 'SimplonNorm';
+  src: url('./fonts/SimplonNorm/Web/TTF/SimplonNorm-Bold-WebTrial.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SimplonNorm';
+  src: url('./fonts/SimplonNorm/Web/TTF/SimplonNorm-Regular-WebTrial.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
